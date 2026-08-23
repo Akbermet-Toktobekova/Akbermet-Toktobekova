@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <h1>Hi there, I'm Akbermet 👋</h1>
   <h3>Software Engineer | Product Thinker | Problem Solver</h3>
 </div>
@@ -15,10 +15,6 @@ I am a passionate **Developer with a strong leaning towards Product Management**
 ### 🚀 Featured Project
 **[Vela - Personal Financial Advisor](https://github.com/Akbermet-Toktobekova/Vela)**
 My BSc Computer Science Thesis. A multi-agent AI financial advisor built with Expo, FastAPI, and CrewAI, aimed at democratizing access to financial literacy.
-
-### 📬 Let's Connect
-- **Email**: akbermetintech@gmail.com
-- *(Add your LinkedIn or other links here!)*
 
 <br/>
 
